@@ -15,3 +15,9 @@ https://code.djangoproject.com/wiki/DjangoResources#Open-SourceDjangoprojects
 ===================================
 
 
+Python with apache in Centos
+
+http://wiki.centos.org/HelpOnInstalling/ApacheWithModPython
+
+http://www.howtoforge.com/embedding-python-in-apache2-with-mod_python-debian-ubuntu-fedora-centos-mandriva-opensuse
+
