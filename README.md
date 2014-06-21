@@ -7,3 +7,11 @@ http://books.google.com.bd/books?id=ASMDAgAAQBAJ&pg=PT278&lpg=PT278&dq=step+by+s
 
 ==================================
 
+
+Django Sample Project
+
+https://code.djangoproject.com/wiki/DjangoResources#Open-SourceDjangoprojects
+
+===================================
+
+
