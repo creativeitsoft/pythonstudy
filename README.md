@@ -21,3 +21,9 @@ http://wiki.centos.org/HelpOnInstalling/ApacheWithModPython
 
 http://www.howtoforge.com/embedding-python-in-apache2-with-mod_python-debian-ubuntu-fedora-centos-mandriva-opensuse
 
+======================================
+
+Django Tutorial
+
+http://peterhudec.github.io/authomatic/examples/django-simple.html
+
